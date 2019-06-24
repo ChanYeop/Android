@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:2:1-201:12
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:2:1-201:12
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:2:1-201:12
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:2:1-201:12
+MERGED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:2:1-201:12
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:2:1-201:12
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:2:1-201:12
+	package
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:2:1-201:12
+		INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:2:1-201:12
+		INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:5:5-54
+	android:glEsVersion
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:5:19-51
+uses-feature#android.hardware.camera
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:21:5-60
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:21:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:26:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:31:5-66
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:31:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:37:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:39:22-77
+application
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:51:5-199:19
+MERGED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:30:5-44:19
+	android:supportsRtl
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:58:9-36
+	android:label
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:53:9-41
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:55:9-40
+	android:icon
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:52:9-38
+	android:allowBackup
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:56:9-35
+	android:description
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:54:9-54
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:57:9-47
+meta-data#com.google.ar.core
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:62:9-81
+	android:value
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:62:54-78
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:62:20-53
+activity#com.vuforia.engine.CoreSamples.ui.ActivityList.ActivitySplashScreen
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:80:10-91:21
+	android:screenOrientation
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:83:13-49
+	android:noHistory
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:84:13-37
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:82:13-93
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:81:13-95
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:86:13-90:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:87:17-69
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:87:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:89:17-77
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:89:27-74
+activity#com.vuforia.engine.CoreSamples.ui.ActivityList.ActivityLauncher
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:93:9-98:20
+	android:screenOrientation
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:96:13-49
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:95:13-93
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:94:13-91
+activity#com.vuforia.engine.CoreSamples.ui.ActivityList.AboutScreen
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:100:10-106:20
+	android:screenOrientation
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:103:13-49
+	android:noHistory
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:104:13-37
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:102:13-93
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:101:13-86
+activity#com.vuforia.engine.CoreSamples.app.ImageTargets.ImageTargets
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:108:9-114:20
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:112:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:110:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:111:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:109:13-88
+activity#com.vuforia.engine.CoreSamples.app.ModelTargets.ModelTargets
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:116:9-123:20
+	android:screenOrientation
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:119:13-50
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:121:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:118:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:120:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:117:13-88
+activity#com.vuforia.engine.CoreSamples.app.ModelTargetsTrained.ModelTargetsTrained
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:125:9-132:20
+	android:screenOrientation
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:128:13-50
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:130:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:127:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:129:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:126:13-102
+activity#com.vuforia.engine.CoreSamples.app.GroundPlane.GroundPlane
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:134:9-141:20
+	android:screenOrientation
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:137:13-50
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:139:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:136:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:138:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:135:13-86
+activity#com.vuforia.engine.CoreSamples.app.VuMark.VuMark
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:143:9-149:20
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:147:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:145:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:146:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:144:13-76
+activity#com.vuforia.engine.CoreSamples.app.CylinderTargets.CylinderTargets
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:151:9-157:20
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:155:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:153:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:154:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:152:13-94
+activity#com.vuforia.engine.CoreSamples.app.VirtualButtons.VirtualButtons
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:159:9-165:20
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:163:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:161:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:162:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:160:13-92
+activity#com.vuforia.engine.CoreSamples.app.UserDefinedTargets.UserDefinedTargets
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:167:9-173:20
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:171:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:169:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:170:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:168:13-100
+activity#com.vuforia.engine.CoreSamples.app.MultiTargets.MultiTargets
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:175:9-181:20
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:179:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:177:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:178:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:176:13-88
+activity#com.vuforia.engine.CoreSamples.app.CloudRecognition.CloudReco
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:183:9-189:20
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:187:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:185:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:186:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:184:13-89
+activity#com.vuforia.engine.CoreSamples.app.ObjectRecognition.ObjectTargets
+ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:191:9-197:20
+	android:launchMode
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:195:13-44
+	android:configChanges
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:193:13-93
+	android:theme
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:194:13-51
+	android:name
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml:192:13-94
+uses-sdk
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+MERGED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:26:5-28:41
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cy960\AndroidStudioProjects\vuforia-sdk-android-8-1-10\samples\VuforiaSamples-8-1-7\app\src\main\AndroidManifest.xml
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:33:9-39:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:36:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:38:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:39:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:34:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:41:9-43:41
+	android:value
+		ADDED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:43:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.6.0] C:\Users\cy960\.gradle\caches\transforms-1\files-1.1\core-1.6.0.aar\57b4533c911e41ecf57b9a5ec142dc10\AndroidManifest.xml:42:13-62

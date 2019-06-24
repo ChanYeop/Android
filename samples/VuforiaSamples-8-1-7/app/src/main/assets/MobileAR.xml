@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="loveu" size="0.192000 0.108000" />
+    <ImageTarget name="london" size="0.192000 0.108000" />
+    <ImageTarget name="flower_pattern" size="0.192000 0.108000" />
+    <ImageTarget name="black_white_pattern_" size="0.192000 0.108000" />
+  </Tracking>
+</QCARConfig>
